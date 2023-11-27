@@ -7,3 +7,5 @@ Clone the repository and run
 ```
 uvicorn app.main:app --reload
 ```
+Below is the link to the repository. If you would like to train a different model with the same dataset, this might be helpful
+https://www.kaggle.com/datasets/shanks0465/banknoteauthentication
